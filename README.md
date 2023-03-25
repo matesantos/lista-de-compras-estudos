@@ -7,7 +7,7 @@ Código modelo da li "Comprados":
     <li class="item-compra is-flex is-justify-content-space-between" data-value="">
         <div>
             <input type="checkbox" checked class="is-clickable" />  
-            <span class="itens-comprados is-size-5"></span>
+            <input type="text" class="is-size-5" value=""></input>
         </div>
         <div>
             <i class="fa-solid fa-trash is-clickable deletar"></i>
